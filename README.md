@@ -25,3 +25,5 @@ UML Diagram
 
 Solution Codes
 
+![automatedwasmanagementsytsmtem](https://github.com/user-attachments/assets/6348a318-ca84-433d-96dc-74451aef2765)
+
